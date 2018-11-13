@@ -54,10 +54,10 @@ ul.posts li {
 
 div.art_thumbnail_box {
 	float: left;
-	width: 100px;
-	height: 200px;
+	width: 200px;
+	height: 300px;
 	margin: 10px;
-	border: 1px solid #000000;  
+	border: 3px solid #000000;
 }
 
 div.video-responsive{
