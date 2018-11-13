@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="9c41e161-8df6-4875-9252-deba009147e4" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/book/index.html" afterPath="$PROJECT_DIR$/book/index.html" />
+      <change beforePath="$PROJECT_DIR$/images/books/mzdnp.jpg" afterPath="$PROJECT_DIR$/images/books/mzdnp.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/books/zrbnkxjd.jpg" afterPath="$PROJECT_DIR$/images/books/zrbnkxjd.jpg" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -36,8 +38,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/book/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="15" column="150" lean-forward="false" selection-start-line="15" selection-start-column="150" selection-end-line="15" selection-end-column="150" />
+            <state relative-caret-position="378">
+              <caret line="14" column="35" lean-forward="true" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
               <folding />
             </state>
           </provider>
@@ -111,12 +113,17 @@
             <path>
               <item name="maiwen.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="maiwen.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
+              <item name="art" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="maiwen.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="maiwen.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="docs" type="462c0819:PsiDirectoryNode" />
+              <item name="book" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="maiwen.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="maiwen.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="maiwen.github.io" type="b2602c69:ProjectViewProjectNode" />
@@ -269,10 +276,15 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/images/books/mzdnp.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/book/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="15" column="150" lean-forward="false" selection-start-line="15" selection-start-column="150" selection-end-line="15" selection-end-column="150" />
+        <state relative-caret-position="378">
+          <caret line="14" column="35" lean-forward="true" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
           <folding />
         </state>
       </provider>
